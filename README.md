@@ -1,3 +1,3 @@
 # Switch-Color
 
-Web: https://antiadherente.github.io/Switch-Color/
+WEB: https://antiadherente.github.io/Switch-Color/
